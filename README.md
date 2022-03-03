@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimothyBelekollie
 - 👀 I’m interested in Sofware Engineering
-- 🌱 I’m currently learning lsarave 8 
-- 💞️ I’m looking to collaborate on  and project
+- 🌱 I’m currently intermediate  laravel 9 developer 
+- 💞️ I’m looking forward to collaborating on projects
 - 📫 How to reach me: email: belekollietimothy2@gmail.com
 
 <!---
