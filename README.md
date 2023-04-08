@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TimothyBelekollie
 - 👀 I’m interested in Sofware Engineering
 - 🌱 I’m currently intermediate  laravel 9 developer 
+-🌱 I'm a Junior Data Analyst
+-📫 I'm currently doing some course in Data Science
 - 💞️ I’m looking forward to collaborating on projects
 - 📫 How to reach me: email: belekollietimothy2@gmail.com
 
