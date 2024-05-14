@@ -11,23 +11,31 @@
 
 
 ## 🛠 Skills
+
 ### Technologies
 - Web Development
-- Internet of Things
+- Internet of Things (IoT)
 - Data Analysis
-- Data Scientist
+- Data Science
+
 ### Programming Languages
 - Python
 - PHP
 - JavaScript
 - Java
-- Arduino
+- Arduino (Embedded C/C++)
+
 ### Tools & Frameworks
 
 #### Data Science & Data Analysis
 - Python Libraries: NumPy, Pandas, Matplotlib
 - Data Visualization: Excel, PowerBI
 - Statistical Analysis
+- Machine Learning
+
+#### Databases
+1. SQL (Structured Query Language)
+2. NoSQL (e.g., MongoDB)
 
 #### Web Frameworks
 - Laravel
