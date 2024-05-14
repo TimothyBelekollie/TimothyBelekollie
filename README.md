@@ -1,6 +1,6 @@
+# 👋 Hi there, I'm Timothy Belekollie.
 ## 🚀 About Me
 
-- 👋 Hi there, I'm Timothy Belekollie.
 - 🎓 I hold a First Class Upper Division Honor degree in Software Engineering from the University of Lay Adventist of Kigali.
 - 👀 I specialize in the following technology stacks: PHP (Laravel) and Python (Django).
 - 🛠️ I have hands-on experience with a variety of databases including MySQL, MongoDB, PostgreSQL, Oracle, and MySQL Workbench.
