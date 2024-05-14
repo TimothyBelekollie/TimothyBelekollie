@@ -9,6 +9,31 @@
 - 📊 I also have a keen interest in Data Analysis and currently pursuing additional courses in Data Science.
 - 🤝 I'm open to collaborating on exciting projects.
 
+
+## 🛠 Skills
+### Technologies
+- Web Development
+- Internet of Things
+- Data Analysis
+- Data Scientist
+### Programming Languages
+- Python
+- PHP
+- JavaScript
+- Java
+- Arduino
+### Tools & Frameworks
+
+#### Data Science & Data Analysis
+- Python Libraries: NumPy, Pandas, Matplotlib
+- Data Visualization: Excel, PowerBI
+- Statistical Analysis
+
+#### Web Frameworks
+- Laravel
+- Django
+- Flask
+
 ## 🔗 Links
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belekollietimothy2@gmail.com) - Get in touch via email
