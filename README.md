@@ -2,7 +2,7 @@
 ## 🚀 About Me
 
 - 🎓 I hold a First Class Upper Division Honor degree in Software Engineering from the University of Lay Adventist of Kigali.
-- 👀 I specialize in the following technology stacks: PHP (Laravel) and Python (Django).
+- 👀 I specialize in the following technology stacks: PHP (Laravel) and Python (Django), Javascript(Node and React)
 - 🛠️ I have hands-on experience with a variety of databases including MySQL, MongoDB, PostgreSQL, Oracle, and MySQL Workbench.
 - 🌱 I'm passionate about Full-stack Development, Data Science, and Artificial Intelligence.
 - 💼 I am adaptable and thrive in both remote and in-person work environments.
