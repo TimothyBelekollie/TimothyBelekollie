@@ -13,10 +13,12 @@
 ## 🛠 Skills
 
 ### Technologies
+- Machine Learning
+- Data Science
+- Data Analysis
 - Web Development
 - Internet of Things (IoT)
-- Data Analysis
-- Data Science
+
 
 ### Programming Languages
 - Python
