@@ -1,14 +1,21 @@
 # 👋 Hi there, I'm Timothy Belekollie.
 ## 🚀 About Me
 
-- 🎓 I hold a First Class Upper Division Honor degree in Software Engineering from the University of Lay Adventist of Kigali.
-- 👀 I specialize in the following technology stacks: PHP (Laravel) and Python (Django), Javascript(Node and React)
-- 🛠️ I have hands-on experience with a variety of databases including MySQL, MongoDB, PostgreSQL, Oracle, and MySQL Workbench.
-- 🌱 I'm passionate about Full-stack Development, Data Science, and Artificial Intelligence.
-- 💼 I am adaptable and thrive in both remote and in-person work environments.
-- 📊 I also have a keen interest in Data Analysis and currently pursuing additional courses in Data Science.
-- 🤝 I'm open to collaborating on exciting projects.
+🎓 I hold a First Class Upper Division Honor degree in Software Engineering from the University of Lay Adventist of Kigali.
 
+🤖 I specialize in Machine Learning, Data Science, and Artificial Intelligence, with hands-on experience in predictive modeling, data analytics, and statistical analysis.
+
+📊 Proficient in Python (NumPy, Pandas, scikit-learn), data visualization, and implementing ML models for real-world applications.
+
+🛠️ Experienced with databases including MySQL, MongoDB, PostgreSQL, and Oracle for data storage and processing.
+
+💻 Skilled in Web Development with PHP (Laravel), Python (Django), and JavaScript.
+
+💼 Highly adaptable, thriving in both remote and in-person work environments.
+
+🚀 Continuously learning and exploring advanced AI and data-driven technologies.
+
+🤝 Open to collaborating on innovative and impactful projects.
 
 ## 🛠 Skills
 
